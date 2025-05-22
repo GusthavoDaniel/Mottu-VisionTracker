@@ -1,0 +1,334 @@
+                        • Não é permitido formar grupos com alunos de outros cursos ou anos.
+                       ENTREGAS
+                       • Os grupos devem idealizar os projetos a serem desenvolvidos ao longo do ano letivo, dividido em
+                         entregas parciais durante o 1º. e 2º. semestre;
+ENTREGAS DAS SPRINTS
+
+
+
+
+                       • Haverá um total de 3 sprints (3 entregas ao longo do ano), sendo uma no primeiro semestre e duas no
+                         segundo semestre;
+
+                       • A entrega ocorrerá ao final de cada Sprint e será para todas as disciplinas;
+
+                       • Cada sprint terá os seus entregáveis de cada disciplina, especificados pelos respectivos professores no
+                         portal e neste documento;
+                       ENTREGAS
+                       • Entrega de cada sprint será realizada por disciplina;
+
+                       • Cada disciplina disponibilizou os requisitos no portal e nesta documentação;
+ENTREGAS 1º SEMESTRE
+
+
+
+
+                       • Entrega de todas as disciplinas serão realizadas através do portal FIAP.
+
+
+
+
+                                                            Entrega 1º Semestre
+                                                                23/05/2025
+RESPONSABILIDADES
+                    ALUNOS
+                    • Ter ciência do documento da Challenge e cumprir as entregas conforme solicitação dos professores.
+
+                    • Organização e gerenciamento do grupo, como o planejamento e prazos das entregas internas.
+
+                    • Atentar-se a qualidade no desenvolvimento dos entregáveis.
+RESPONSABILIDADES
+                    PROFESSORES
+                    • Responsáveis por orientar o desenvolvimento do projeto em suas disciplinas;
+
+                    • Manter sua solicitação de entregável sempre atualizada para o grupo de professores e alunos;
+
+                    • Explicar detalhadamente entregável da disciplina e critérios de avaliação junto aos alunos;
+RESPONSABILIDADES
+
+
+
+
+                    • A correção de cada entregável, é de responsabilidade do professor da disciplina em cada turma;
+
+                    • Disponibilizar nota individual referente à disciplina;
+
+                    • Disponibilizar justificativa de nota aplicada ao grupo/aluno, quando se aplicar;
+                    SCRUM MASTER
+                    • Comunicação entre os alunos/professores e a(s) empresa(s) parceira(s);
+
+                    • Manter os dados dos grupos de alunos atualizada (a gestão e formação dos grupos é de responsabilidade
+                      dos alunos);
+RESPONSABILIDADES
+
+
+
+
+                    • Manter o documento do challenge atualizada;
+
+                    • Agendar os eventos com a empresa parceira/professores, como apresentações, reuniões e treinamentos;
+
+
+
+                    • Scrum Master 2025
+                        • Professores: Karina Costa, Thiago Keller e Thiago Yamamoto.
+PREMIAÇÃO
+  NEXT 2025
+PREMIAÇÃO
+
+
+
+
+            1º Lugar           2º Lugar           3º Lugar
+
+            R$ 5.000,00        R$ 3.000,00        R$ 2.000,00
+
+            MEDALHA,           MEDALHA,           MEDALHA,
+
+            SHAPE E CAMISETA   SHAPE E CAMISETA   SHAPE E CAMISETA
+CRONOGRAMA
+   1º SEMESTRE
+         CRONOGRAMA
+
+         DATA          EVENTO                                 STEAKHOLDER
+            14/04      Abertura do Challenge com a Mottu      Mottu
+           À definir   Primeira mentoria online com a Mottu   Mottu
+           Até 23/05   ENTREGA DA SPRINT 1                    ALUNO
+           Até 30/05   Feedback das entregas SPRINT 1         PROFESSORES
+AGENDA
+                       CRONOGRAMA – 1º SEMESTRE
+AGENDAS DO CHALLENGE
+
+
+
+
+                          •   Abertura do desafio – Kickoff com a empresa parceira.
+
+                          •   1º Mentoria com os profissionais da empresa parceira.
+
+                          •   Entrega da 1º Sprint.
+AGENDAS DO CHALLENGE   KICKOFF DO CHALLENGE – 14/04
+
+
+
+
+                                            Fotos: https://photos.app.goo.gl/YWiBdurKo7oj3MiMA
+ENTREGAS
+1º SPRINT
+ POR DISCIPLINA
+                      ADVANCED BUSINESS DEVELOPMENT WITH .NET
+                      • Implementar uma API Restful utilizando ASP.NET Core (Controllers ou Minimal API) (85 pts)
+
+                          o Apresentar um CRUD pelo menos (GET (mais de 3 rotas e devidamente parametrizadas com QueryParams ou
+                             PathParams), POST, PUT, DELETE)
+
+                          o Apresentar os retornos HTTP adequados para cada rota (ok, NotFound, BadRequest, NoConent, Created)
+ENTREGA - 1º SPRINT
+
+
+
+
+                          o Integração do Banco de dados Oracle via EF Core, com utilização de migrations para criação das tabelas
+
+                          o Open API Implementada seguindo os padrões para documentação das API's com interface gráfica (Swagger,
+                             Redoc ou Scalar)
+
+                          • ReadMe do projeto e Github (15 pts)
+
+                          o Implementação do Readme do projeto apresentando: Descrição do projeto, Rotas, Instalação
+
+                          o Obs: a organização e apresentação do trabalho terá impacto na redução da nota ou penalidade adicional no
+                             trabalho.
+                      COMPLIANCE, QUALITY ASSURANCE & TESTS
+                      • Visão e escopo do projeto em formato PITCH, contendo:
+                          • Descrição detalhada do problema a resolver (peso 20%)
+                          • Descrição dos objetivos da solução idealizada(peso 20%)
+
+
+                      • Arquitetura da solução, aplicando TOGAF® e usando a ferramenta ARCHIMATE® (ARCHI).
+ENTREGA - 1º SPRINT
+
+
+
+
+                          • Desenhe em uma mesma página de diagrama no Archi:
+                              • Visão da arquitetura (peso 15%)
+                              • Arquitetura de negócio (peso 15%)
+                              • Arquitetura de sistema (peso 15%)
+                              • Arquitetura de tecnologia (peso 15%)
+
+                      • Gere um PDF com o material desenvolvido (incluindo o diagrama do Archi e suba a sua resposta do
+                        Challenge sprint em tarefa específica criada no Teams - entregas fora do formato perderão 10%
+                      DEVOPS TOOLS & CLOUD COMPUTING 1/4
+                      Primeira opção:
+                      01) Conteinerização da API solicitada na disciplina ADVANCED BUSINESS DEVELOPMENT WITH .NET em Nuvem (até 85 pontos)
+
+                      02) Documentação no GitHub (até 15 pontos)
+
+
+                      As seguintes regras solicitadas por essa disciplina serão avaliadas para a execução em nuvem:
+ENTREGA - 1º SPRINT
+
+
+
+
+                      . Apresentar um CRUD (GET, POST, PUT, DELETE) com pelo menos 5 inserts com conteúdo significativo
+                      . Integração do Banco de dados Oracle
+                      . Open API Implementada seguindo os padrões para documentação das API's com interface gráfica (Swagger, Redoc ou Scalar)
+                      . ReadMe do projeto e Github
+                      . Implementação do Readme do projeto apresentando: Descrição do projeto, Rotas, Instalação, Dockerfile, scripts do Azure CLI
+
+
+                      A nota irá variar de acordo com a completude da entrega e, se a entrega não funcionar em nuvem, não poderá ser avaliada, ficando
+                         apenas a parte do GitHub para análise e totalização da nota
+                      DEVOPS TOOLS & CLOUD COMPUTING 2/4
+                      Segunda opção:
+                      01) Conteinerização da API solicitada na disciplina JAVA ADVANCED em Nuvem (até 85 pontos)
+
+                      02) Documentação no GitHub (até 15 pontos)
+                      As seguintes regras solicitadas por essa disciplina serão avaliadas para a execução em nuvem:
+                      . Spring Web para criação da API
+ENTREGA - 1º SPRINT
+
+
+
+
+                      . Spring Data JPA para acesso ao banco de dados
+                      . Banco de dados H2 ou Oracle
+                      . CRUD completo para pelo menos duas entidades e pelo menos 5 inserts com conteúdo significativo em cada entidade
+                      . Relacionamento entre entidade
+                      . O repositório deve conter o código do projeto na raiz, Dockerfile, scripts do Azure CLI
+                      . O repositório deve ter um readme com a descrição do projeto, nomes dos alunos e instruções para executar
+
+
+                      A nota irá variar de acordo com a completude da entrega e, se a entrega não funcionar em nuvem, não poderá ser avaliada, ficando
+                         apenas a parte do GitHub para análise e totalização da nota
+                      DEVOPS TOOLS & CLOUD COMPUTING 3/4
+                      Tarefas da disciplina (independente da escolha da tecnologia):
+                      01) Provisionar uma Máquina Virtual Linux no Azure via CLI
+                      02) Abrir as portas necessárias ao projeto via CLI
+                      03) Instalar o Docker na VM criada via SSH
+                      04) Executar a entrega de .NET ou Java na VM utilizando Docker
+ENTREGA - 1º SPRINT
+
+
+
+
+                        - Projeto executando em background
+                        - Imagens otimizadas (ex: python:3.11-slim, node:18-alpine)
+                        - Rodar aplicação com usuário sem privilégios administrativos
+                      05) Acessar externamente e realizar todos os testes
+                      06) Desenhe a Arquitetura Macro da sua solução na nuvem (ex: fluxo de usuários, front-end, API, banco de dados, VM, containers,
+                      etc.). Utilize ferramentas como Draw.io ou Visual Paradigm (links abaixo) e inclua legendas, rótulos, imagens e setas de fluxo para
+                      facilitar a compreensão
+                      07) Ao final da entrega delete a Máquina Virtual criada
+
+
+                      Obs.: Pode gerar a imagem do Docker em sua máquina de desenvolvimento e subir para o Docker Hub. Assim a equipe somente roda
+                      a solução na VM baixando a imagem
+                      DEVOPS TOOLS & CLOUD COMPUTING 4/4
+                      Entrega:
+                      Grave um vídeo demonstrando: A Criação da VM via CLI, a aberturas das portas necessárias via CLI, Instalação do
+                      Docker, Funcionamento da aplicação com o Docker e Persistência de dados (mostrar cada operação executada no banco)
+
+                      Entrega final:
+                      Um único arquivo PDF nomeado como: NomeDoGrupo_Challenge_1Sem_2TDS.pdf, contendo:
+ENTREGA - 1º SPRINT
+
+
+
+
+                      01) Uma folha de rosto com o nome da equipe, RM e nome completo dos alunos. Inclua um índice para organização
+                      02) Desenho da arquitetura com legenda, fluxos etc
+                      03) Link para o repositório no GitHub
+                      04) Link para o vídeo no YouTube
+                      05) Print da evidência da remoção da VM
+
+                      Sugestões de ferramentas de desenho
+                      - Azure Diagram Tool (Visual Paradigm)
+                        https://online.visual-paradigm.com/diagrams/features/azure-architecture-diagram-tool/
+                      - Draw.io
+                      https://app.diagrams.net/
+                      DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
+                      Objetivos Principais
+                      •   Desenvolver um protótipo funcional simples (físico ou simulado) que utilize tecnologias de IoT e/ou Visão Computacional para
+                          solução proposta.
+                      •   Gravar um vídeo pitch de aproximadamente 5 minutos com a demonstração funcional das primeiras implementações técnicas
+                          utilizando IoT e/ou Visão Computacional.
+                      Objetivos Específicos
+ENTREGA - 1º SPRINT
+
+
+
+
+                      • Apresentar de forma clara o problema real que o projeto busca resolver.
+                      • Justificar a aplicação de tecnologias de IoT e/ou Visão Computacional.
+                      • Apontar as tecnologias utilizadas, explicando como serão aplicadas na solução.
+                      • Demonstrar o funcionamento de componentes-chave do projeto (por exemplo: sensores conectados, processamento de imagens,
+                        modelos de IA, automações etc).
+                      • Evidenciar a viabilidade técnica inicial do projeto como prova de conceito.
+
+
+
+                      Página 1 /3
+                      DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
+                      Tarefa
+                      • Caso IoT:
+                          o Implementar o protótipo, usando montagem física (protoboard) ou simulação (ex.: Wokwi, Tinkercad, etc).
+                          o Criar um Dashboard com as informações coletadas usando protocolos (HTTP ou MQTT)
+                      • Caso Visão Computacional
+                          o Implementar um script Python para detecção / classificação e/ou rastreamento de objeto alinhado ao projeto.
+ENTREGA - 1º SPRINT
+
+
+
+
+                          o O output visual do objeto detectado deve ser realizado para demonstrar a detecção / classificação e/ou rastreamento.
+                      Observações importantes:
+                      •   Explique como os frameworks / ferramentas serão aplicados no projeto.
+                      •   Utilize imagens e vídeos que tentem reproduzir / simular o ambiente real (exemplo: pátio de motos da Mottu).
+                      •   Faça a escolhas dos sensores/atuadores e monte o circuito de forma organizada.
+                      •   Evite apresentações completamente automatizadas por IA. O uso de recursos visuais é recomendado, mas o protagonismo deve
+                          ser do grupo no vídeo.
+
+
+                      Página 2 /3
+                      DISRUPTIVE ARCHITECTURES: IOT, IOB & GENERATIVE IA
+                      Critérios de Avaliação
+                      (até 60 pontos) Aplicação técnica de conceitos de IoT e/ou Visão Computacional
+                      (até 20 pontos) Clareza e didática da apresentação em vídeo
+                      (até 20 pontos) Organização do repositório e documentação técnica
+                      Entregáveis obrigatórios: Arquivo .zip contendo:
+                      •
+ENTREGA - 1º SPRINT
+
+
+
+
+                          Link do vídeo publicado no YouTube (em modo não listado) com a apresentação da ideia central do projeto, demonstração
+                          funcional (real ou simulada) dos principais recursos implementados.
+                      •   Link para o repositório no GitHub, apresentando código-fonte e estrutura do projeto e o README com instruções de uso,
+                          tecnologias utilizadas e resultados parciais.
+                      Condições de entrega
+                      • A integridade e o conteúdo do arquivo entregue são de responsabilidade dos integrantes do grupo.
+                      • Arquivos entregues sem conteúdo ou com arquivos corrompidos não serão considerados. Sugestão: confira seu anexo antes de
+                      publicar.
+                      • Não serão aceitos arquivos enviados pelo Teams ou fora do prazo.
+
+
+                      Página 3 /3
+                      JAVA ADVANCED 1/2
+                      Nesta entrega você deve criar uma API Rest que dará suporte a sua solução do challenge. A API deve atender
+                      os seguintes requisitos técnicos:
+
+
+                      • Spring Web para criação da API                           • Ordenação de resultados
+                      • Spring Data JPA para acesso ao banco de dados
+ENTREGA - 1º SPRINT
+
+
+
+
+                                                                                 • Busca por parâmetros
+               
+(Content truncated due to size limit. Use line ranges to read in chunks)
