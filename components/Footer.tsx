@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-// Cores (mantendo o padrão Mottu)
+
 const MOTTU_BLACK = "#121212";
 const MOTTU_LIGHT_GRAY = "#A0A0A0";
 
@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
     alignItems: 'center',
     borderTopWidth: 1,
-    borderTopColor: '#333333', // Um cinza um pouco mais escuro para a borda
+    borderTopColor: '#333333', 
   },
   footerText: {
     fontSize: 12,

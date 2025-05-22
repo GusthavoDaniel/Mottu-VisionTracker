@@ -20,7 +20,7 @@ import type { Moto } from '../contexts/MotoContext';
 const { width } = Dimensions.get('window');
 const CARD_WIDTH = width > 500 ? width / 2 - 24 : width - 32;
 
-// Definição de tipos para evitar erros de tipagem
+
 type SetorId = 'Setor A' | 'Setor B' | 'Setor C' | 'Setor D';
 
 interface Setor {
@@ -62,7 +62,7 @@ export default function SupervisorScreen() {
   };
 
   useEffect(() => {
-    // Calcular estatísticas
+    
     const novasEstatisticas: Estatisticas = {
       total: motos.length,
       porSetor: { 'Setor A': 0, 'Setor B': 0, 'Setor C': 0, 'Setor D': 0 }

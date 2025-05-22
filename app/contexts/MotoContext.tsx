@@ -14,7 +14,7 @@ export type Moto = {
 
 interface MotoContextProps {
   motos: Moto[];
-  adicionarMoto: (moto: Moto) => void; // Espera um objeto Moto completo
+  adicionarMoto: (moto: Moto) => void; 
   moverMoto: (id: string, newX: number, newY: number) => void;
 }
 
@@ -23,7 +23,7 @@ export const MotoContext = createContext<MotoContextProps>({} as MotoContextProp
 export const MotoProvider = ({ children }: { children: ReactNode }) => {
   const [motos, setMotos] = useState<Moto[]>([]);
 
-  // Modificar para aceitar um objeto Moto completo
+  
   const adicionarMoto = (moto: Moto) => {
     setMotos((prev) => [...prev, moto]);
   };

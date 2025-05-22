@@ -15,10 +15,10 @@ import { useMotoContext } from '../contexts/MotoContext';
 import { useTheme } from '../contexts/ThemeContext';
 import { Animated } from 'react-native';
 
-// Opções para modelo de moto
+
 const MODELOS_MOTOS = ['CG 160', 'Factor 125', 'Biz 125'];
 
-// Opções para cor (cores disponíveis na Mottu)
+
 const CORES_MOTOS = ['Preta', 'Verde Mottu'];
 
 export default function CadastrarMotoScreen() {
@@ -28,7 +28,7 @@ export default function CadastrarMotoScreen() {
   
   const [placa, setPlaca] = useState('');
   const [modelo, setModelo] = useState(MODELOS_MOTOS[0]);
-  const [cor, setCor] = useState(CORES_MOTOS[1]); // Verde Mottu como padrão
+  const [cor, setCor] = useState(CORES_MOTOS[1]); 
   const [mostrarModelosPicker, setMostrarModelosPicker] = useState(false);
   const [mostrarCoresPicker, setMostrarCoresPicker] = useState(false);
 
@@ -38,7 +38,7 @@ export default function CadastrarMotoScreen() {
       return;
     }
 
-    // Validação de formato de placa (padrão brasileiro)
+    
     const placaRegex = /^[A-Z]{3}[0-9][0-9A-Z][0-9]{2}$/;
     if (!placaRegex.test(placa)) {
       Alert.alert('Erro', 'Formato de placa inválido. Use o formato AAA0A00');

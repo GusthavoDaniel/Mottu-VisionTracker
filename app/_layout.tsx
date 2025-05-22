@@ -1,4 +1,4 @@
-// Em app/_layout.tsx
+
 import React from 'react';
 import { ThemeProvider } from './contexts/ThemeContext';
 import { MotoProvider } from './contexts/MotoContext';

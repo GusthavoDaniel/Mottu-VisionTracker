@@ -1,4 +1,4 @@
-// Em components/MotoMarker.tsx
+
 import React from 'react';
 import { Animated, StyleSheet, TouchableOpacity, Image, GestureResponderHandlers } from 'react-native';
 import { useTheme } from '@/app/contexts/ThemeContext';
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     height: 60,
     justifyContent: 'center',
     alignItems: 'center',
-    zIndex: 10, // Aumentei o zIndex para garantir que fique visível
+    zIndex: 10, 
   },
   iconWrapper: {
     width: 60,
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     borderWidth: 2,
     overflow: 'hidden',
-    backgroundColor: 'rgba(0,0,0,0.5)', // Adicionei um fundo para melhorar a visibilidade
+    backgroundColor: 'rgba(0,0,0,0.5)', 
   },
   image: {
     width: '100%',

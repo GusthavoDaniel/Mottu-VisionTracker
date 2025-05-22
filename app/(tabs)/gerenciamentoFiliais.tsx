@@ -35,7 +35,7 @@ interface Filial {
   };
 }
 
-// Dados simulados de filiais
+
 const filiaisSimuladas: Filial[] = [
   {
     id: 'fil001',
@@ -132,24 +132,24 @@ export default function GerenciamentoFiliaisScreen() {
   const [filtroEstado, setFiltroEstado] = useState<string>('');
   const [filialSelecionada, setFilialSelecionada] = useState<Filial | null>(null);
 
-  // Filtra filiais com base nos critérios
+  
   const filiaisFiltradas = filiais.filter(filial => {
     const matchPais = filtroPais ? filial.pais.toLowerCase().includes(filtroPais.toLowerCase()) : true;
     const matchEstado = filtroEstado ? filial.estado.toLowerCase().includes(filtroEstado.toLowerCase()) : true;
     return matchPais && matchEstado;
   });
 
-  // Seleciona uma filial para visualização detalhada
+  
   const selecionarFilial = (filial: Filial) => {
     setFilialSelecionada(filial);
   };
 
-  // Limpa a seleção de filial
+  
   const limparSelecao = () => {
     setFilialSelecionada(null);
   };
 
-  // Renderiza o card de uma filial
+  
   const renderFilialCard = (filial: Filial) => {
     const disponibilidadePercentual = (filial.disponivel / filial.totalMotos) * 100;
     const corDisponibilidade = disponibilidadePercentual > 70 ? colors.success :

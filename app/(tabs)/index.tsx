@@ -5,7 +5,7 @@ import { FontAwesome5, MaterialIcons, MaterialCommunityIcons } from '@expo/vecto
 import { Alert } from 'react-native';
 import { useTheme } from '../contexts/ThemeContext';
 
-// Cores fixas que não mudam com o tema
+
 const MOTTU_RED = '#FF3B30';
 const MOTTU_ORANGE = '#FF9500';
 
